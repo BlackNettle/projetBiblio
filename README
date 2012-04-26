@@ -1,0 +1,6 @@
+************** PROJET BIBLIO **************
+
+But : 	Créer une base de données contenant les lectures de différents users, accessibles (selon les droits). 
+	Cette Bdd serait un aide-mémoire. La diffusion, le partage et le croisement de données seront 
+possibles.
+
